@@ -1,0 +1,18 @@
+{
+  "name": "projekt_8_3_srodowisko_pracy",
+  "version": "1.0.0",
+  "description": "Projekt 8.3 srodowisko pracy",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "JS-hint"
+  ],
+  "author": "Jacek",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0"
+  }
+}
